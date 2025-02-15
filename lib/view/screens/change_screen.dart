@@ -18,8 +18,8 @@ class _ChangeScreenState extends State<ChangeScreen> {
   
   // the screens
   List screens = [
-    HomeScreen(),
-    SettingScreen()
+    const HomeScreen(),
+    const SettingScreen()
   ];
   
   @override
